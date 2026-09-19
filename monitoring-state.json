@@ -1,0 +1,3087 @@
+{
+  "baseline_at": "2026-09-08T23:59:59Z",
+  "baseline_id": "boost-status-2026-09-08",
+  "cadence": {
+    "frequency": "daily",
+    "scheduled_local_time": "09:17",
+    "scope": "Skynet, configured stable on-chain sources, and official X accounts",
+    "timezone": "Asia/Taipei"
+  },
+  "initialized": true,
+  "last_scan_at": "2026-09-19T02:05:39.476747Z",
+  "latest_scan_event_ids": [
+    "9040dcc69839d6d2015c"
+  ],
+  "opportunities": [
+    {
+      "baseline_product_stage": "Mainnet 2026/3/18；早期商業化／支付产品拓展",
+      "baseline_token_status": "無需波動原生gas幣；使用stablecoin付費，未確認另有公開治理幣；不標Pre-TGE",
+      "candidate_product": "X Growth / X Article",
+      "confidence": "high",
+      "detected_at": "2026-09-19T02:05:39.476747Z",
+      "event_id": "9040dcc69839d6d2015c",
+      "event_time": "2026-09-18T23:34:34Z",
+      "event_type": "mainnet_launch",
+      "evidence_excerpt": "Tempo mainnet launched six months ago.",
+      "missing_evidence": "補主網可用證據與採用數據；若要賣 X Article，仍需重大鏈上 milestone。",
+      "name": "Tempo",
+      "new_state": "Mainnet 可能已正式上線",
+      "old_state": "Mainnet 2026/3/18；早期商業化／支付产品拓展",
+      "project_id": "tempo",
+      "readiness": "needs_metric",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "9040dcc69839d6d2015c"
+      ],
+      "source_url": "https://x.com/tempo/status/2101092548156838270",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "資料平台已有鏈活動；官方上線證據不足",
+      "baseline_token_status": "代幣發行狀態待核；不標 Pre-TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "d7f2b9d437547a3deb86",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Anubis Chain TVL crossed $300M and reached $391.5M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Anubis Chain",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "anubis-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "e446b49869a12b672f78"
+      ],
+      "source_url": "https://defillama.com/protocol/rocketswap-anubis",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Sui Liquid Staking／Vault／AMM 多產品",
+      "baseline_token_status": "HAEDAL 已發行；2025/4/29 為本輪找到的發行日期線索，精確日仍待 primary 完整核驗",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "45f483fc895d09580e83",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Haedal Protocol TVL grew 14.2% over 1 day to $30.9M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Haedal Protocol",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "haedal-protocol",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "72585a3a7acaae64eb0d"
+      ],
+      "source_url": "https://defillama.com/protocol/haedal-protocol",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網多產品營運／增長分化",
+      "baseline_token_status": "既有 LISTA；lisUSD、slisBNB 為不同產品資產，不是同一次 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "b42b11e88bef98870a0d",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Lista DAO TVL crossed $2B and reached $2.05B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Lista DAO",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "lista-dao",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "5802be7a2c3e8f764d20"
+      ],
+      "source_url": "https://defillama.com/protocol/lista-lending",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 staking 主網＋Trustless Bitcoin Vault 新產品 testnet",
+      "baseline_token_status": "BABY 已發行；精確初次 TGE 日未在本輪完整重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "6803636c7d2bdcab6036",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Babylon TVL crossed $3.3B and reached $3.35B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Babylon",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "babylon",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "b6d0c1815ec38de46523"
+      ],
+      "source_url": "https://defillama.com/protocol/babylon-protocol",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 LRT＋Bedrock 2.0 yield engine 转型",
+      "baseline_token_status": "BR 已發行；2025/3/20 上市有交易所一手新聞稿，已超過半年",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "624129ee29f49b71ea2c",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Bedrock TVL crossed $400M and reached $404.9M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Bedrock",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bedrock",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "7c4f4947517affadf75f"
+      ],
+      "source_url": "https://defillama.com/protocol/bedrock-unibtc",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "ea92ed2ceccb87558ead",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.7B and reached $5.77B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "2be125ff1430edd3c778"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟 Mainnet＋Leios／Hydra 持續研发",
+      "baseline_token_status": "既有 ADA；精確首次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "5c38e09ac1861c0b8aea",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Cardano (ADA) TVL grew 12.0% over 1 day to $58.8M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Cardano (ADA)",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "cardano",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "b8123308a8d790cdec53"
+      ],
+      "source_url": "https://defillama.com/chain/Cardano",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／enterprise tokenization 與 AI 工具",
+      "baseline_token_status": "既有 HBAR；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "2af4c1fc38b6063c0a86",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Hedera TVL grew 20.6% over 1 day to $33.9M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Hedera",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "hedera",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "28d6d8e2a4f7bd5fe416"
+      ],
+      "source_url": "https://defillama.com/chain/Hedera",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網 Perp 自2025/6；多資產交易擴張",
+      "baseline_token_status": "本輪未确认独立token发行；points不是TGE證據",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "d862ac09805b8844a4aa",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Pacifica derivatives volume grew 51.4% versus the previous 30-day period to $12.54B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Pacifica",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "pacifica",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "f5da440ac039ec8876f8"
+      ],
+      "source_url": "https://defillama.com/protocol/pacifica-perps",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟 multichain DEX；產品別發展待補",
+      "baseline_token_status": "既有 CAKE；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "aedb7613208605ffae8c",
+      "event_type": "data_driven",
+      "evidence_excerpt": "PancakeSwap TVL crossed $2.3B and reached $2.32B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "PancakeSwap",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "pancakeswap",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "91ba2606fb0ed0dc3b99"
+      ],
+      "source_url": "https://defillama.com/protocol/pancakeswap-amm",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": null,
+      "baseline_token_status": null,
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "4bb6af3b5fcb8acde88a",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Sonic TVL grew 20.3% over 1 day to $49.1M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Sonic",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "sonic",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "55b1b3ba0b56fa22d241"
+      ],
+      "source_url": "https://defillama.com/protocol/sonic",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／Bitcoin金融与升级",
+      "baseline_token_status": "既有 STX；sBTC是BTC表示资产，不是另一个治理TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "44e233d1e3180b3a71e0",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Stacks TVL crossed $200M and reached $200.5M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Stacks",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "stacks",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "b4de02b5955560030031"
+      ],
+      "source_url": "https://defillama.com/protocol/stacks-staking",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "X Growth / X Article",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "155582b6ca89cc5e13b3",
+      "event_type": "x_article",
+      "evidence_excerpt": "Last week marked a new milestone for TRON’s growing institutional accessibility.；同時 TRON TVL crossed $5.5B and reached $5.55B.",
+      "missing_evidence": "已通過重大事件＋重大數據門檻；發稿前仍需逐項核對一手來源。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "54b198a3315ea35b15f8"
+      ],
+      "source_url": "https://x.com/trondao/status/2099954701865455687",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "X + Search / Deep Dive",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-19T00:09:20.429760Z",
+      "event_id": "2625238bd44fd16b4846",
+      "event_type": "deep_dive",
+      "evidence_excerpt": "Last week marked a new milestone for TRON’s growing institutional accessibility.；同時 TRON TVL crossed $5.5B and reached $5.55B. 可延伸為含歷史趨勢與同類比較的 Deep Dive / Medium SEO。",
+      "missing_evidence": "補歷史趨勢、同類比較與可引用的一手來源。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "76fad5061f16f08190dd"
+      ],
+      "source_url": "https://x.com/trondao/status/2099954701865455687",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟技術棧／機構部署定位",
+      "baseline_token_status": "ATOM 屬 Cosmos Hub；不是所有 Cosmos SDK 鏈通用代幣",
+      "candidate_product": "X Growth / X Article",
+      "confidence": "high",
+      "detected_at": "2026-09-18T01:52:43.162388Z",
+      "event_id": "5d648312607f2bffc771",
+      "event_time": "2026-09-15T11:06:24Z",
+      "event_type": "product_launch",
+      "evidence_excerpt": "Cosmos Chief Commercial Officer Eran Barak @eranbarak spoke with @cryptodotnews about the newly launched Partner Network.",
+      "missing_evidence": "確認產品已正式可用，並補 ATH、$1B 級 milestone 或其他強採用數據後再賣 X Article。",
+      "name": "Cosmos",
+      "new_state": "可能發布新產品／新功能",
+      "old_state": "成熟技術棧／機構部署定位",
+      "project_id": "cosmos",
+      "readiness": "needs_metric",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "5d648312607f2bffc771"
+      ],
+      "source_url": "https://x.com/cosmos/status/2099817103851434469",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "ff4ed03cb8a994a035a8",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.5B and reached $5.57B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "96da10f1a9606c5fb557"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／enterprise tokenization 與 AI 工具",
+      "baseline_token_status": "既有 HBAR；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "515780de740071107e86",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Hedera TVL grew 11.1% over 7 days to $29.4M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Hedera",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "hedera",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "58925019c781dfb17794"
+      ],
+      "source_url": "https://defillama.com/chain/Hedera",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網 Perp 自2025/6；多資產交易擴張",
+      "baseline_token_status": "本輪未确认独立token发行；points不是TGE證據",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "eca465d7157a7e50aac4",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Pacifica protocol revenue grew 3906.5% versus the previous 30-day period to $3.7M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Pacifica",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "pacifica",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "b68785238a4671fc1f74"
+      ],
+      "source_url": "https://defillama.com/protocol/pacifica-perps",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟 multichain DEX；產品別發展待補",
+      "baseline_token_status": "既有 CAKE；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "1e3225a39e9c390ff566",
+      "event_type": "data_driven",
+      "evidence_excerpt": "PancakeSwap TVL crossed $1.9B and reached $1.95B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "PancakeSwap",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "pancakeswap",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "8060187a9d21c8177fbe"
+      ],
+      "source_url": "https://defillama.com/protocol/pancakeswap-amm",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／machine economy 与omnichain拓展",
+      "baseline_token_status": "既有 PEAQ；精確發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "981d2f8471a984196a84",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Peaq TVL grew 17.7% over 1 day to $775.8K.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Peaq",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "peaq",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "fe5790b61792d410a7ba"
+      ],
+      "source_url": "https://defillama.com/chain/Peaq",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "資料平台＋SSI指数／basis產品",
+      "baseline_token_status": "既有 SOSO；初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "9756fb33e8a129679e04",
+      "event_type": "data_driven",
+      "evidence_excerpt": "SoSoValue protocol revenue grew 51.7% versus the previous 30-day period to $1.8M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "SoSoValue",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "sosovalue",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "195a25dc06790d6b3278"
+      ],
+      "source_url": "https://defillama.com/protocol/sosovalue-indexes",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet 2026/3/18；早期商業化／支付产品拓展",
+      "baseline_token_status": "無需波動原生gas幣；使用stablecoin付費，未確認另有公開治理幣；不標Pre-TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "29f6008ce362a18b6316",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Tempo reached a new TVL all-time high of $60.8M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Tempo",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tempo",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "b748bc3dd21855b75a21"
+      ],
+      "source_url": "https://defillama.com/chain/Tempo",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "X Growth / X Article",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "5a36dbce89e31bada2bc",
+      "event_type": "x_article",
+      "evidence_excerpt": "Last week marked a new milestone for TRON’s growing institutional accessibility.；同時 TRON TVL crossed $5.4B and reached $5.42B.",
+      "missing_evidence": "已通過重大事件＋重大數據門檻；發稿前仍需逐項核對一手來源。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "0600fde3835aa9311ff5"
+      ],
+      "source_url": "https://x.com/trondao/status/2099954701865455687",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "X + Search / Deep Dive",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-18T00:06:00.464643Z",
+      "event_id": "beaa4528d3fd0557b980",
+      "event_type": "deep_dive",
+      "evidence_excerpt": "Last week marked a new milestone for TRON’s growing institutional accessibility.；同時 TRON TVL crossed $5.4B and reached $5.42B. 可延伸為含歷史趨勢與同類比較的 Deep Dive / Medium SEO。",
+      "missing_evidence": "補歷史趨勢、同類比較與可引用的一手來源。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "8e81182aedf8848d3dd7"
+      ],
+      "source_url": "https://x.com/trondao/status/2099954701865455687",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "medium",
+      "detected_at": "2026-09-17T01:51:03.603274Z",
+      "event_id": "6cdc154bf29d1092a02d",
+      "event_time": "2026-09-15T23:17:59Z",
+      "event_type": "official_milestone",
+      "evidence_excerpt": "RT @TRONSCAN_ORG: 🎉 TRON’s total accounts have surpassed 404 million!",
+      "missing_evidence": "回查可引用的鏈上或產品數據；官方貼文中的數字不可直接取代底層數據來源。",
+      "name": "TRON",
+      "new_state": "官方宣布新的採用／規模 milestone",
+      "old_state": "成熟Mainnet／stablecoin支付与agent扩张",
+      "project_id": "tron",
+      "readiness": "needs_verification",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "6cdc154bf29d1092a02d"
+      ],
+      "source_url": "https://x.com/trondao/status/2100001209302339994",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": null,
+      "baseline_token_status": null,
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-17T01:51:03.603274Z",
+      "event_id": "8506f3a63db074dcace2",
+      "event_time": "2026-09-15T20:37:20.219000Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "V2.2 on 9.22",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Sonic",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "既有基線待核",
+      "project_id": "sonic",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "8506f3a63db074dcace2"
+      ],
+      "source_url": "https://x.com/SonicLabs/status/2099960780947132775",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有zkEVM網路／最新產品定位有異動待核",
+      "baseline_token_status": "既有 SCR；精確初次發行日未重核",
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-17T01:51:03.603274Z",
+      "event_id": "bd1c8f755f6ef2d14987",
+      "event_time": "2026-09-15T04:21:29.678000Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "Scroll is upgrading its prover stack from OpenVM v1.6 to v2.0 on September 22 at 02:00 UTC.",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Scroll",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "既有zkEVM網路／最新產品定位有異動待核",
+      "project_id": "scroll",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "bd1c8f755f6ef2d14987"
+      ],
+      "source_url": "https://x.com/Scroll_ZKP/status/2099715202178842754",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "X Growth / X Article",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-17T01:51:03.603274Z",
+      "event_id": "7a8fcd8cdaad78a63a72",
+      "event_type": "x_article",
+      "evidence_excerpt": "Last week marked a new milestone for TRON’s growing institutional accessibility.；同時 TRON TVL crossed $5.3B and reached $5.39B.",
+      "missing_evidence": "已通過重大事件＋重大數據門檻；發稿前仍需逐項核對一手來源。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "wait",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "318133c55cb15f92fb96"
+      ],
+      "source_url": "https://x.com/trondao/status/2099954701865455687",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "X + Search / Deep Dive",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-17T01:51:03.603274Z",
+      "event_id": "1d3d51eeb9baf02e166e",
+      "event_type": "deep_dive",
+      "evidence_excerpt": "Last week marked a new milestone for TRON’s growing institutional accessibility.；同時 TRON TVL crossed $5.3B and reached $5.39B. 可延伸為含歷史趨勢與同類比較的 Deep Dive / Medium SEO。",
+      "missing_evidence": "補歷史趨勢、同類比較與可引用的一手來源。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "wait",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "e5466c24f3ab231b1d7c"
+      ],
+      "source_url": "https://x.com/trondao/status/2099954701865455687",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網 Lending／多池多產品營運",
+      "baseline_token_status": "既有 XVS；初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-17T00:20:28.341063Z",
+      "event_id": "38ec866a1ba8132ace3a",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Venus Protocol TVL crossed $1.2B and reached $1.24B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Venus Protocol",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "venus-protocol",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "2f5c12a68cb3129705c2"
+      ],
+      "source_url": "https://defillama.com/protocol/venus-core-pool",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／貿易金融與 RWA 商業化",
+      "baseline_token_status": "既有 XDC；Foundation 與 Network 分開",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-17T00:20:28.341063Z",
+      "event_id": "b4b4e704f6aef2a04751",
+      "event_type": "data_driven",
+      "evidence_excerpt": "XDC Foundation recorded $15M of one-day bridge net inflow.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "XDC Foundation",
+      "new_state": "qualify",
+      "old_state": "watch",
+      "project_id": "xdc-foundation",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "960e7aaabeee2bae92c8"
+      ],
+      "source_url": "https://defillama.com/chain/XDC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-17T00:20:28.341063Z",
+      "event_id": "7b7f449af0107d160acf",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.4B and reached $5.5B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "3b2d9cc3d540265b666d"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／storage 向 Onchain Cloud 服務轉型",
+      "baseline_token_status": "既有 FIL；初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-17T00:20:28.341063Z",
+      "event_id": "689979a0e3fee1cf4b70",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Filecoin TVL grew 12.3% over 30 days to $2.5M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Filecoin",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "filecoin",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "c70782656eeb7accfbd2"
+      ],
+      "source_url": "https://defillama.com/chain/Filecoin",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet 2026/3/18；早期商業化／支付产品拓展",
+      "baseline_token_status": "無需波動原生gas幣；使用stablecoin付費，未確認另有公開治理幣；不標Pre-TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-17T00:20:28.341063Z",
+      "event_id": "385907016f745e521561",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Tempo stablecoin supply grew $92.7M (174.3%) over 30 days.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Tempo",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tempo",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "c7acfcc6b66f20806d38"
+      ],
+      "source_url": "https://defillama.com/chain/Tempo",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet explorer 可讀＋AI 元件分階段推出",
+      "baseline_token_status": "LCAI ERC-20 已存在並有官方交易連結；公開發行日待核",
+      "candidate_product": "Needs verification",
+      "confidence": "high",
+      "detected_at": "2026-09-16T01:44:38.172653Z",
+      "event_id": "9b9d9e62497c7ad4a3c1",
+      "event_time": "2026-09-12T09:19:13.079000Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "📢 New proposal submitted 🖊️ Signer Allocation for Multisignature Governance of Clearing House Wallet 📰 This proposal is a follow-up to the previously approved Lightchain AI DUNA...",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Lightchain AI",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "Mainnet explorer 可讀＋AI 元件分階段推出",
+      "project_id": "lightchain-ai",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "9b9d9e62497c7ad4a3c1"
+      ],
+      "source_url": "https://x.com/LightchainAI/status/2098702963115986952",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "資料平台已有鏈活動；官方上線證據不足",
+      "baseline_token_status": "代幣發行狀態待核；不標 Pre-TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-16T00:08:53.824295Z",
+      "event_id": "3e9dc8a0a0db59fba946",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Anubis Chain reached a new TVL all-time high of $378.5M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Anubis Chain",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "anubis-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "20c8d2c28e4eff3425a2"
+      ],
+      "source_url": "https://defillama.com/protocol/rocketswap-anubis",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 CEX；本輪官方頁地區限制",
+      "baseline_token_status": "獨立代幣狀態未確認；不要默認無幣或 Pre-TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-16T00:08:53.824295Z",
+      "event_id": "138e999dbdd8794f0d03",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BloFin recorded $865.4K of one-day net inflow.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BloFin",
+      "new_state": "qualify",
+      "old_state": "watch",
+      "project_id": "blofin",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "002f4be8d5ebdb7ec4b0"
+      ],
+      "source_url": "https://defillama.com/cex/blofin",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／持續技術與開發者生態",
+      "baseline_token_status": "既有 EGLD；Elrond→MultiversX 不等於重新 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-16T00:08:53.824295Z",
+      "event_id": "19336630818059d40725",
+      "event_type": "data_driven",
+      "evidence_excerpt": "MultiversX TVL grew 40.0% over 30 days to $12.5M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "MultiversX",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "multiversx",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "f6980f56301b1d8642fd"
+      ],
+      "source_url": "https://defillama.com/chain/MultiversX",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 LRT＋Bedrock 2.0 yield engine 转型",
+      "baseline_token_status": "BR 已發行；2025/3/20 上市有交易所一手新聞稿，已超過半年",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-16T00:08:53.824295Z",
+      "event_id": "ee0b2ac112c805c404e3",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Bedrock TVL crossed $300M and reached $376.1M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Bedrock",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bedrock",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "3032c447bd2f37a45c17"
+      ],
+      "source_url": "https://defillama.com/protocol/bedrock-unibtc",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-16T00:08:53.824295Z",
+      "event_id": "a2429daa633ff604a860",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.4B and reached $5.49B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "eccedb3e7777b5e7d1f1"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "資料平台＋SSI指数／basis產品",
+      "baseline_token_status": "既有 SOSO；初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-16T00:08:53.824295Z",
+      "event_id": "df5f0615316380b24c42",
+      "event_type": "data_driven",
+      "evidence_excerpt": "SoSoValue TVL grew 21.8% over 30 days to $99.9M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "SoSoValue",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "sosovalue",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "c1618c29f57df6ca59e0"
+      ],
+      "source_url": "https://defillama.com/protocol/sosovalue-indexes",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-16T00:08:53.824295Z",
+      "event_id": "b0c4d021e30493b71046",
+      "event_type": "data_driven",
+      "evidence_excerpt": "TRON TVL crossed $5.3B and reached $5.37B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "16112eb624d35b25fc20"
+      ],
+      "source_url": "https://defillama.com/chain/Tron",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟 CEX／Web3 與 AI 交易工具擴張",
+      "baseline_token_status": "既有 OKB；CEX、Wallet、X Layer 與 OKB 的關係分開",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-15T00:37:09.803253Z",
+      "event_id": "966dfe3a096c3a38d954",
+      "event_type": "data_driven",
+      "evidence_excerpt": "OKX recorded $350.6M of one-day net inflow.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "OKX",
+      "new_state": "qualify",
+      "old_state": "watch",
+      "project_id": "okx",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "2fa5b2d93fa9543e87d6"
+      ],
+      "source_url": "https://defillama.com/cex/okx",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 staking 主網＋Trustless Bitcoin Vault 新產品 testnet",
+      "baseline_token_status": "BABY 已發行；精確初次 TGE 日未在本輪完整重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-15T00:37:09.803253Z",
+      "event_id": "2851ad5b46f27789262d",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Babylon TVL crossed $3.2B and reached $3.22B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Babylon",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "babylon",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "fcba67deda5b72cebde6"
+      ],
+      "source_url": "https://defillama.com/protocol/babylon-protocol",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-15T00:37:09.803253Z",
+      "event_id": "1ed1a8a592a87aeaa6bb",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.6B and reached $5.62B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "1a322da07c85551fd090"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／多产品Sui Stack与AI执行基础设施",
+      "baseline_token_status": "既有 SUI；DEEP／WAL 等属不同产品，不是SUI重新TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-15T00:37:09.803253Z",
+      "event_id": "ab159e9f81e4a0aad885",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Sui TVL grew 10.6% over 30 days to $30.8M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Sui",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "sui",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "7f9a0638591a25d76a1b"
+      ],
+      "source_url": "https://defillama.com/protocol/sui-foundation",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "X Growth / X Article",
+      "confidence": "high",
+      "detected_at": "2026-09-14T01:31:11.336282Z",
+      "event_id": "77dcdc751f45543b480f",
+      "event_time": "2026-09-09T20:02:40.243000Z",
+      "event_type": "product_launch",
+      "evidence_excerpt": "The Canary Staked TRX ETF ($TRXS) is now live, bringing TRX exposure to traditional brokerage platforms.",
+      "missing_evidence": "確認產品已正式可用，並補 ATH、$1B 級 milestone 或其他強採用數據後再賣 X Article。",
+      "name": "TRON",
+      "new_state": "可能發布新產品／新功能",
+      "old_state": "成熟Mainnet／stablecoin支付与agent扩张",
+      "project_id": "tron",
+      "readiness": "needs_metric",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "77dcdc751f45543b480f"
+      ],
+      "source_url": "https://x.com/trondao/status/2097777729701896289",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／持續技術與開發者生態",
+      "baseline_token_status": "既有 EGLD；Elrond→MultiversX 不等於重新 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "07ed682d29c5bfd76ecd",
+      "event_type": "data_driven",
+      "evidence_excerpt": "MultiversX TVL grew 13.1% over 1 day to $15.6M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "MultiversX",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "multiversx",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "a2c9b46ff621d14e16dd"
+      ],
+      "source_url": "https://defillama.com/chain/MultiversX",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網 Perp 已營運＋Pre-TGE 籌備",
+      "baseline_token_status": "EVE 仍為計畫中 TGE／待正式分配公告；官網寫 mainnet 後約 6–18 個月",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "68b47020ef8c17113e0d",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Evedex TVL grew 27.9% over 30 days to $3.6M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Evedex",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "evedex",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "dc741c24b78efc277996"
+      ],
+      "source_url": "https://defillama.com/protocol/evedex",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "BTC 信貸／CeDeFi 與链上產品多線營運",
+      "baseline_token_status": "AVL 已發行；精確 2025 發行日仍待一手公告重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "2a2ea5d05789e15d4480",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Avalon Labs TVL crossed $200M and reached $215M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Avalon Labs",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "avalon-labs",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "9ed14e05adfe483216ea"
+      ],
+      "source_url": "https://defillama.com/protocol/avalon-finance",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "c4a22502830933d43815",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.9B and reached $5.92B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "8308305e93006c1a90a6"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／storage 向 Onchain Cloud 服務轉型",
+      "baseline_token_status": "既有 FIL；初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "1706c53e0fdd07892470",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Filecoin TVL grew 20.3% over 1 day to $3M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Filecoin",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "filecoin",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "b9848c4c85973c0a7f86"
+      ],
+      "source_url": "https://defillama.com/chain/Filecoin",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／decentralized cloud、DeWeb",
+      "baseline_token_status": "既有 MAS 背景；精確發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "770ead75d7f7ffb3ffae",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Massa Labs TVL grew 37.2% over 7 days to $25.6K.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Massa Labs",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "massa",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "0af071d9ec45575d1d03"
+      ],
+      "source_url": "https://defillama.com/chain/Massa",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet based rollup／预确认与去中心化升级",
+      "baseline_token_status": "既有 TAIKO；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "1bbaeab47fe6e85fb188",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Taiko TVL grew 11.6% over 14 days to $12.5M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Taiko",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "taiko",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "cb218227e184efd28c71"
+      ],
+      "source_url": "https://defillama.com/protocol/taiko-bridge",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-14T00:06:29.193807Z",
+      "event_id": "4c4e5ba9b959e098f43d",
+      "event_type": "data_driven",
+      "evidence_excerpt": "TRON TVL crossed $5.4B and reached $5.46B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "1ee255da07e13532b46b"
+      ],
+      "source_url": "https://defillama.com/chain/Tron",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet explorer 可讀＋AI 元件分階段推出",
+      "baseline_token_status": "LCAI ERC-20 已存在並有官方交易連結；公開發行日待核",
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-13T01:38:25.880818Z",
+      "event_id": "69efbb33dabfa9289209",
+      "event_time": "2026-09-12T09:19:13Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "📢 New proposal submitted 🖊️ Signer Allocation for Multisignature Governance of Clearing House Wallet 📰 This proposal is a follow-up to the previously approved Lightchain AI DUNA...",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Lightchain AI",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "Mainnet explorer 可讀＋AI 元件分階段推出",
+      "project_id": "lightchain-ai",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "69efbb33dabfa9289209"
+      ],
+      "source_url": "https://x.com/LightchainAI/status/2098702963115986952",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟 CEX／多產品營運",
+      "baseline_token_status": "既有 BNB；交易所與 BNB Chain 分開；精確初次發行日未重核",
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-13T01:38:25.880818Z",
+      "event_id": "7af7e9129204f846ed75",
+      "event_time": "2026-09-12T09:03:03Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "Binance will support the Vechain (VET) Network Upgrade &amp; Hard Fork.",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Binance Exchange",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "成熟 CEX／多產品營運",
+      "project_id": "binance",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "7af7e9129204f846ed75"
+      ],
+      "source_url": "https://x.com/binance/status/2098698897132757299",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／enterprise tokenization 與 AI 工具",
+      "baseline_token_status": "既有 HBAR；精確初次發行日未重核",
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-13T01:38:25.880818Z",
+      "event_id": "26e059e34d7fd94e828b",
+      "event_time": "2026-09-11T19:09:30Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "RT @SilkSuiteDEX: We’re proud to announce our partnership with @gosodax 🤝 Hedera liquidity shouldn’t be siloed, and this is a big step tow…",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Hedera",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "Mainnet／enterprise tokenization 與 AI 工具",
+      "project_id": "hedera",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "26e059e34d7fd94e828b"
+      ],
+      "source_url": "https://x.com/hedera/status/2098489125540171880",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／持續技術與開發者生態",
+      "baseline_token_status": "既有 EGLD；Elrond→MultiversX 不等於重新 TGE",
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-13T01:38:25.880818Z",
+      "event_id": "6a8211a2f586af55c166",
+      "event_time": "2026-09-11T15:01:42Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "RT @lucianmincu: Shipped. 2+ years of hard core protocol engineering. 600ms blocks. ~170ms finality on mainnet. Supernova is live. Cap…",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "MultiversX",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "Mainnet／持續技術與開發者生態",
+      "project_id": "multiversx",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "6a8211a2f586af55c166"
+      ],
+      "source_url": "https://x.com/MultiversX/status/2098426764687008021",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 CEX；本輪官方頁地區限制",
+      "baseline_token_status": "獨立代幣狀態未確認；不要默認無幣或 Pre-TGE",
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-13T01:38:25.880818Z",
+      "event_id": "84f07fa5e9e364f31feb",
+      "event_time": "2026-09-10T15:13:33Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "Due to the network upgrade of Solana and Tron (TRC20), BloFin has temporarily suspended deposit and withdrawal services for all tokens on these networks.",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "BloFin",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "既有 CEX；本輪官方頁地區限制",
+      "project_id": "blofin",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "84f07fa5e9e364f31feb"
+      ],
+      "source_url": "https://x.com/BloFin_Official/status/2098067358250045712",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／機構應用商業化／新服務擴張",
+      "baseline_token_status": "CC 已發行；官方文件記錄 2024/7–12 初始獎勵期，已超過半年；不是傳統公開募售 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T23:56:49.730864Z",
+      "event_id": "1d68d0165b292921b0d1",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Canton Network TVL grew 64.2% over 30 days to $8.1M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Canton Network",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "digital-asset-canton",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "c32cdc9656493d58576e"
+      ],
+      "source_url": "https://defillama.com/chain/Canton",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網多產品營運／增長分化",
+      "baseline_token_status": "既有 LISTA；lisUSD、slisBNB 為不同產品資產，不是同一次 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T23:56:49.730864Z",
+      "event_id": "b919b6afdf9b46701d74",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Lista DAO TVL crossed $1.8B and reached $1.89B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Lista DAO",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "lista-dao",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "8249b182dce9124d5abb"
+      ],
+      "source_url": "https://defillama.com/protocol/lista-lending",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "DEX 有收錄資產；營運成熟度待核",
+      "baseline_token_status": "未確認独立 token／TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T23:56:49.730864Z",
+      "event_id": "85802acf25849bfa1761",
+      "event_type": "data_driven",
+      "evidence_excerpt": "LunarBase DEX volume grew 70.0% versus the previous 7-day period to $13.7M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "LunarBase",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "lunarbase",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "de63c0a264fc5c898281"
+      ],
+      "source_url": "https://defillama.com/protocol/lunarbase",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T23:56:49.730864Z",
+      "event_id": "ac93dfcf51d5a85c52e1",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.6B and reached $5.65B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "6e648fa164f1a18e789e"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／decentralized cloud、DeWeb",
+      "baseline_token_status": "既有 MAS 背景；精確發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T23:56:49.730864Z",
+      "event_id": "81a87a8c1c4fbad71cca",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Massa Labs TVL grew 42.2% over 30 days to $25.6K.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Massa Labs",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "massa",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "dc46c511c612a6c5139c"
+      ],
+      "source_url": "https://defillama.com/chain/Massa",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Sui 主網 DEX／多產品營運",
+      "baseline_token_status": "既有 CETUS；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "e4d65fc3ece678254c73",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Cetus DEX volume grew 75.2% versus the previous 30-day period to $390.2M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Cetus",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "cetus",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "32e10496613da581c2d0"
+      ],
+      "source_url": "https://defillama.com/protocol/cetus-clmm",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／遊戲平台持續營運",
+      "baseline_token_status": "既有 WEMIX；WEMIX3.0 主網與早期代幣分開",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "9fe15a8b3d5ca784ee07",
+      "event_type": "data_driven",
+      "evidence_excerpt": "WEMIX TVL grew 22.6% over 30 days to $2.8M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "WEMIX",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "wemix",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "fbd8d4ff90013a0e6e62"
+      ],
+      "source_url": "https://defillama.com/chain/WEMIX3.0",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟韓國 CEX",
+      "baseline_token_status": "交易所主體；本輪未確認獨立交易所代幣，不等於 Pre-TGE",
+      "candidate_product": "Inside Skynet Score",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "8a96cc323d605056e97f",
+      "event_type": "skynet_score",
+      "evidence_excerpt": "Bithumb 的 86.57 AA 評級拆解：優勢、短板與安全因子",
+      "missing_evidence": "補最新 Score breakdown，確認是哪個安全因子推動跨級。",
+      "name": "Bithumb",
+      "new_state": "ready",
+      "old_state": "wait",
+      "project_id": "bithumb",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "48fec5cb95e171f0fe99"
+      ],
+      "source_url": "https://skynet.certik.com/exchanges/bithumb",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網多產品營運／增長分化",
+      "baseline_token_status": "既有 LISTA；lisUSD、slisBNB 為不同產品資產，不是同一次 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "c1b26955504dbb126477",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Lista DAO TVL crossed $1.8B and reached $1.89B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Lista DAO",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "lista-dao",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "58c90630040215e0c743"
+      ],
+      "source_url": "https://defillama.com/protocol/lista-lending",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "BTC 信貸／CeDeFi 與链上產品多線營運",
+      "baseline_token_status": "AVL 已發行；精確 2025 發行日仍待一手公告重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "6e1295ce1568038a7e2e",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Avalon Labs TVL crossed $200M and reached $208.7M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Avalon Labs",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "avalon-labs",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "423345578bc360eaf719"
+      ],
+      "source_url": "https://defillama.com/protocol/avalon-finance",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 staking 主網＋Trustless Bitcoin Vault 新產品 testnet",
+      "baseline_token_status": "BABY 已發行；精確初次 TGE 日未在本輪完整重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "2a3e49c7a4c6ae595099",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Babylon TVL crossed $3.1B and reached $3.17B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Babylon",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "babylon",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "5c6c131a8ddac07fd484"
+      ],
+      "source_url": "https://defillama.com/protocol/babylon-protocol",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "2dc6d35ec4c6627ecfa2",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.6B and reached $5.64B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "bc9cd56b031cc593f12c"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有zkEVM網路／最新產品定位有異動待核",
+      "baseline_token_status": "既有 SCR；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-12T00:07:39.310337Z",
+      "event_id": "392c4736258791c93801",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Scroll TVL grew 12.3% over 30 days to $39.3M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Scroll",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "scroll",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "84f075bd20ccfe8a3ec3"
+      ],
+      "source_url": "https://defillama.com/protocol/scroll-bridge",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網 Lending／多池多產品營運",
+      "baseline_token_status": "既有 XVS；初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "9728ed7987d445708a1b",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Venus Protocol TVL crossed $1.2B and reached $1.27B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Venus Protocol",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "venus-protocol",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "fd11bc52aa7a30a894e7"
+      ],
+      "source_url": "https://defillama.com/protocol/venus-core-pool",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網 Lending／多池多產品營運",
+      "baseline_token_status": "既有 XVS；初次發行日未重核",
+      "candidate_product": "Inside Skynet Score",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "0ede34526b430259fe5c",
+      "event_type": "skynet_score",
+      "evidence_excerpt": "Venus Protocol 的 93.12 AAA 評級拆解：優勢、短板與安全因子",
+      "missing_evidence": "補最新 Score breakdown，確認是哪個安全因子推動跨級。",
+      "name": "Venus Protocol",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "venus-protocol",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "e0202daa70f570062449"
+      ],
+      "source_url": "https://skynet.certik.com/projects/venus",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網交易平台／多資產、新產品與自有鏈擴張",
+      "baseline_token_status": "ASTER TGE 2025/9/17；已超過半年",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "82870c0933af9d700656",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Aster derivatives volume grew 60.1% versus the previous 30-day period to $63.01B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Aster",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "aster",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "0c33e3f364bf3a13a2bb"
+      ],
+      "source_url": "https://defillama.com/protocol/aster-perps",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網交易平台／多資產、新產品與自有鏈擴張",
+      "baseline_token_status": "ASTER TGE 2025/9/17；已超過半年",
+      "candidate_product": "Inside Skynet Score",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "caa980b97dfad966dc24",
+      "event_type": "skynet_score",
+      "evidence_excerpt": "Aster 的 93.89 AAA 評級拆解：優勢、短板與安全因子",
+      "missing_evidence": "補最新 Score breakdown，確認是哪個安全因子推動跨級。",
+      "name": "Aster",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "aster",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "c0e098eb969bf9ef4a20"
+      ],
+      "source_url": "https://skynet.certik.com/projects/aster",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／持續技術與開發者生態",
+      "baseline_token_status": "既有 EGLD；Elrond→MultiversX 不等於重新 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "cc05103537186198c034",
+      "event_type": "data_driven",
+      "evidence_excerpt": "MultiversX TVL grew 32.8% over 14 days to $14.4M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "MultiversX",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "multiversx",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "4df3fe0c5420e9b728da"
+      ],
+      "source_url": "https://defillama.com/chain/MultiversX",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Canton 機構交易／RFQ／vault 服務",
+      "baseline_token_status": "獨立代幣發行未確認；Canton CC 不是 Temple 自有幣",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "474e1171703dea25a0f4",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Temple Digital Group TVL grew 36.5% over 30 days to $5.9M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Temple Digital Group",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "temple-canton",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "0b353ffadc4af3278bcd"
+      ],
+      "source_url": "https://defillama.com/protocol/lightspeed",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "BTC 信貸／CeDeFi 與链上產品多線營運",
+      "baseline_token_status": "AVL 已發行；精確 2025 發行日仍待一手公告重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "cf2d512e17b726bd3918",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Avalon Labs TVL grew 45.8% over 30 days to $166.1M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Avalon Labs",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "avalon-labs",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "d76af9703a1f022879a0"
+      ],
+      "source_url": "https://defillama.com/protocol/avalon-finance",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "既有 staking 主網＋Trustless Bitcoin Vault 新產品 testnet",
+      "baseline_token_status": "BABY 已發行；精確初次 TGE 日未在本輪完整重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "59d84e907bc0d57a7beb",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Babylon TVL crossed $3.1B and reached $3.17B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Babylon",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "babylon",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "676bd59ddf5715c0910d"
+      ],
+      "source_url": "https://defillama.com/protocol/babylon-protocol",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Bitway Earn 有資料，完整產品階段待核",
+      "baseline_token_status": "代幣與 TGE 狀態未確認",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "035d46892af0aeecb358",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Bitway TVL grew 10.1% over 30 days to $83.4M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Bitway",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "bitway",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "6d60e35381c75948bca0"
+      ],
+      "source_url": "https://defillama.com/protocol/bitway-earn",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "54f54fa249b7d61d30e4",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.5B and reached $5.58B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "70150ca029aebc3efb37"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／enterprise tokenization 與 AI 工具",
+      "baseline_token_status": "既有 HBAR；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "dbbbb6ebad971f5248e5",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Hedera TVL grew 21.2% over 30 days to $26.1M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Hedera",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "hedera",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "6a9bbbf057eeaa4b81a2"
+      ],
+      "source_url": "https://defillama.com/chain/Hedera",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟 multichain DEX；產品別發展待補",
+      "baseline_token_status": "既有 CAKE；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "61a5d2cac4bc8fc54e78",
+      "event_type": "data_driven",
+      "evidence_excerpt": "PancakeSwap TVL crossed $2.2B and reached $2.3B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "PancakeSwap",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "pancakeswap",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "a882a5b0775fa1b623f3"
+      ],
+      "source_url": "https://defillama.com/protocol/pancakeswap-amm",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／machine economy 与omnichain拓展",
+      "baseline_token_status": "既有 PEAQ；精確發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "4fb0976e2b69da823c1b",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Peaq TVL grew 23.6% over 30 days to $691.5K.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Peaq",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "peaq",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "91087f1f7004d9cde739"
+      ],
+      "source_url": "https://defillama.com/chain/Peaq",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet 2026/3/18；早期商業化／支付产品拓展",
+      "baseline_token_status": "無需波動原生gas幣；使用stablecoin付費，未確認另有公開治理幣；不標Pre-TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "186f261515415882c16a",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Tempo stablecoin supply grew $76.8M (101.2%) over 7 days.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Tempo",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tempo",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "ac7823f9769296000288"
+      ],
+      "source_url": "https://defillama.com/chain/Tempo",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T23:59:06.194161Z",
+      "event_id": "dcb5527a81b6d5533037",
+      "event_type": "data_driven",
+      "evidence_excerpt": "TRON TVL crossed $5.4B and reached $5.48B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "0d2df48b70a2866c6605"
+      ],
+      "source_url": "https://defillama.com/chain/Tron",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／持續技術與開發者生態",
+      "baseline_token_status": "既有 EGLD；Elrond→MultiversX 不等於重新 TGE",
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-10T01:20:12.278837Z",
+      "event_id": "a3e2e1849129078f3d86",
+      "event_time": "2026-09-09T20:00:07Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "@CodeMultiversX @multiversxfndn 97.8% of mainnet validators on v2.0.6.0 or later (3,466 nodes).",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "MultiversX",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "Mainnet／持續技術與開發者生態",
+      "project_id": "multiversx",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "a3e2e1849129078f3d86"
+      ],
+      "source_url": "https://x.com/MultiversX/status/2097777088829010209",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": null,
+      "baseline_token_status": null,
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-10T01:20:12.278837Z",
+      "event_id": "cdbf83f769775d5f454e",
+      "event_time": "2026-09-09T17:32:42Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "Builders gain more room for application logic.",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Sonic",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "既有基線待核",
+      "project_id": "sonic",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "cdbf83f769775d5f454e"
+      ],
+      "source_url": "https://x.com/SonicLabs/status/2097739989186678825",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": null,
+      "baseline_token_status": null,
+      "candidate_product": "X Growth / X Article",
+      "confidence": "medium",
+      "detected_at": "2026-09-10T01:20:12.278837Z",
+      "event_id": "1a69bd5e9d954f8fb69f",
+      "event_time": "2026-09-09T17:32:30Z",
+      "event_type": "product_launch",
+      "evidence_excerpt": "One action can require several transactions.",
+      "missing_evidence": "確認產品已正式可用，並補 ATH、$1B 級 milestone 或其他強採用數據後再賣 X Article。",
+      "name": "Sonic",
+      "new_state": "可能發布新產品／新功能",
+      "old_state": "既有基線待核",
+      "project_id": "sonic",
+      "readiness": "needs_metric",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "1a69bd5e9d954f8fb69f"
+      ],
+      "source_url": "https://x.com/SonicLabs/status/2097739941241565619",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": null,
+      "baseline_token_status": null,
+      "candidate_product": "Needs verification",
+      "confidence": "medium",
+      "detected_at": "2026-09-10T01:20:12.278837Z",
+      "event_id": "e65d5c81f5b8968223de",
+      "event_time": "2026-09-09T17:32:27Z",
+      "event_type": "project_update",
+      "evidence_excerpt": "Sonic V2.2 is coming soon. The upgrade brings coordinated execution, more flexible gas sponsorship, and greater capacity for smart contracts. Here’s how these changes fit togeth...",
+      "missing_evidence": "確認是否為第一方正式更新，以及對產品使用者與商業化的實際影響。",
+      "name": "Sonic",
+      "new_state": "出現 release／upgrade／partnership／governance 更新",
+      "old_state": "既有基線待核",
+      "project_id": "sonic",
+      "readiness": "needs_verification",
+      "sales_recommendation": false,
+      "signal_ids": [
+        "e65d5c81f5b8968223de"
+      ],
+      "source_url": "https://x.com/SonicLabs/status/2097739929380180457",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／持續技術與開發者生態",
+      "baseline_token_status": "既有 EGLD；Elrond→MultiversX 不等於重新 TGE",
+      "candidate_product": "X Growth / X Article",
+      "confidence": "medium",
+      "detected_at": "2026-09-10T01:20:12.278837Z",
+      "event_id": "130a0e21d430d2661612",
+      "event_time": "2026-09-09T17:00:10Z",
+      "event_type": "product_launch",
+      "evidence_excerpt": "@multiversxfndn @CodeMultiversX 2026: A New Genesis 🗳 8 to 18 January The Supernova vote: 99.64% yes on a 33.63% quorum.",
+      "missing_evidence": "確認產品已正式可用，並補 ATH、$1B 級 milestone 或其他強採用數據後再賣 X Article。",
+      "name": "MultiversX",
+      "new_state": "可能發布新產品／新功能",
+      "old_state": "Mainnet／持續技術與開發者生態",
+      "project_id": "multiversx",
+      "readiness": "needs_metric",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "130a0e21d430d2661612"
+      ],
+      "source_url": "https://x.com/MultiversX/status/2097731801557200939",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網 Lending／多池多產品營運",
+      "baseline_token_status": "既有 XVS；初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T00:03:48.817329Z",
+      "event_id": "6850652210777fd069a5",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Venus Protocol TVL crossed $1.2B and reached $1.27B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Venus Protocol",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "venus-protocol",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "95986715822f6e5b1037"
+      ],
+      "source_url": "https://defillama.com/protocol/venus-core-pool",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "主網多產品營運／增長分化",
+      "baseline_token_status": "既有 LISTA；lisUSD、slisBNB 為不同產品資產，不是同一次 TGE",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T00:03:48.817329Z",
+      "event_id": "de61e759f78d12f1f5b4",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Lista DAO TVL crossed $1.8B and reached $1.9B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Lista DAO",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "lista-dao",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "95c22ec84aeb0ffce27e"
+      ],
+      "source_url": "https://defillama.com/protocol/lista-lending",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／貿易金融與 RWA 商業化",
+      "baseline_token_status": "既有 XDC；Foundation 與 Network 分開",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T00:03:48.817329Z",
+      "event_id": "8e4e18fa9d5cce41adae",
+      "event_type": "data_driven",
+      "evidence_excerpt": "XDC Foundation TVL grew 18.2% over 30 days to $7.9M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "XDC Foundation",
+      "new_state": "ready",
+      "old_state": "watch",
+      "project_id": "xdc-foundation",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "2faf3206b5d46adad228"
+      ],
+      "source_url": "https://defillama.com/chain/XDC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "多主網生態；Beacon Chain sunset complete",
+      "baseline_token_status": "既有 BNB；不是 Binance Exchange 本身",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T00:03:48.817329Z",
+      "event_id": "b9f90e01eadbed841b2e",
+      "event_type": "data_driven",
+      "evidence_excerpt": "BNB TVL crossed $5.6B and reached $5.68B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "BNB",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "bnb-chain",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "1f8138f09ca0d2948752"
+      ],
+      "source_url": "https://defillama.com/chain/BSC",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／支付、RWA与Soroban拓展",
+      "baseline_token_status": "既有 XLM；精確初次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T00:03:48.817329Z",
+      "event_id": "e923c9bc3f3cd0fc0c00",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Stellar stablecoin supply grew $26.7M (2.9%) over 1 days.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Stellar",
+      "new_state": "qualify",
+      "old_state": "ready",
+      "project_id": "stellar",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "ca3d2ff771181d36c22b"
+      ],
+      "source_url": "https://defillama.com/chain/Stellar",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "成熟Mainnet／stablecoin支付与agent扩张",
+      "baseline_token_status": "既有 TRX；USDT与TRX不同角色",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-10T00:03:48.817329Z",
+      "event_id": "5cdbcfb07e030cfbb053",
+      "event_type": "data_driven",
+      "evidence_excerpt": "TRON TVL crossed $5.5B and reached $5.5B.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "TRON",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "tron",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "a5ea210a0551b350b93a"
+      ],
+      "source_url": "https://defillama.com/chain/Tron",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Sui Liquid Staking／Vault／AMM 多產品",
+      "baseline_token_status": "HAEDAL 已發行；2025/4/29 為本輪找到的發行日期線索，精確日仍待 primary 完整核驗",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-09T11:29:16.834718Z",
+      "event_id": "cd4667bd7a2ad4936f11",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Haedal Protocol TVL grew 18.6% over 30 days to $30.7M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Haedal Protocol",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "haedal-protocol",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "ae859794c17b5464c0a9"
+      ],
+      "source_url": "https://defillama.com/protocol/haedal-protocol",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／支付、RWA、後量子與 agent 工具擴張",
+      "baseline_token_status": "既有 ALGO；精確首次發行日未重核",
+      "candidate_product": "Data-Driven Post",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-09T11:29:16.834718Z",
+      "event_id": "6c97ad7fa8b3e013f2d3",
+      "event_type": "data_driven",
+      "evidence_excerpt": "Algorand TVL grew 13.7% over 30 days to $32.1M.",
+      "missing_evidence": "確認數據口徑、時間窗與異常原因後再交給 BD。",
+      "name": "Algorand",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "algorand",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "6be057a88bb3476db283"
+      ],
+      "source_url": "https://defillama.com/chain/Algorand",
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Mainnet／machine economy 与omnichain拓展",
+      "baseline_token_status": "既有 PEAQ；精確發行日未重核",
+      "candidate_product": "Inside Skynet Score",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-09T08:08:32.040961Z",
+      "event_id": "23ee9223e1e66b833c28",
+      "event_type": "skynet_score",
+      "evidence_excerpt": "Peaq 的 93 AAA 評級拆解：優勢、短板與安全因子",
+      "missing_evidence": "補最新 Score breakdown，確認是哪個安全因子推動跨級。",
+      "name": "Peaq",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "peaq",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "d9fb4fa736ffb7d0c1d8"
+      ],
+      "source_url": null,
+      "status": "observed"
+    },
+    {
+      "baseline_product_stage": "Testnet live／原生主網 final hardening／待遷移",
+      "baseline_token_status": "已有 Solana SPL XRS；計畫以 5 SPL XRS 換 1 原生 XRS，非整體 Pre-TGE",
+      "candidate_product": "Inside Skynet Score",
+      "confidence": "rule_qualified",
+      "detected_at": "2026-09-09T07:36:57.621039Z",
+      "event_id": "9cad441a9329245066cd",
+      "event_type": "skynet_score",
+      "evidence_excerpt": "Xeris Web 的 88.58 AA 評級拆解：優勢、短板與安全因子",
+      "missing_evidence": "補最新 Score breakdown，確認是哪個安全因子推動跨級。",
+      "name": "Xeris Web",
+      "new_state": "ready",
+      "old_state": "ready",
+      "project_id": "xeris-web",
+      "readiness": "ready",
+      "sales_recommendation": true,
+      "signal_ids": [
+        "362bb4632b3a4c5fe32c"
+      ],
+      "source_url": "https://skynet.certik.com/projects/xeris-web",
+      "status": "observed"
+    }
+  ],
+  "schema": "content-boost-monitoring-state/v1",
+  "source_problems": [
+    {
+      "latest_x_at": "2026-09-17T00:00:57Z",
+      "name": "TRON",
+      "project_id": "tron",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-09T23:04:00.412000Z",
+      "name": "Canton Network",
+      "project_id": "digital-asset-canton",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-09T02:41:53Z",
+      "name": "Cetus",
+      "project_id": "cetus",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T23:03:00Z",
+      "name": "Crypto.com",
+      "project_id": "crypto-com",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Digital Asset",
+      "project_id": "digital-asset",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T13:37:34Z",
+      "name": "Kaia",
+      "project_id": "kaia",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T21:31:06Z",
+      "name": "OKX",
+      "project_id": "okx",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-27T14:17:23.939000Z",
+      "name": "Shentu Chain",
+      "project_id": "shentu-chain",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-07T14:10:22Z",
+      "name": "Venus Protocol",
+      "project_id": "venus-protocol",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-31T10:13:14.842000Z",
+      "name": "WEMIX",
+      "project_id": "wemix",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-07-11T00:31:47.644000Z",
+      "name": "AlphaSec",
+      "project_id": "alphasec",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-09T08:00:09Z",
+      "name": "Animoca Brands",
+      "project_id": "animoca-brands",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-31T07:01:09.998000Z",
+      "name": "Anubis Chain",
+      "project_id": "anubis-chain",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-12T23:54:25Z",
+      "name": "Aster",
+      "project_id": "aster",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T13:45:16Z",
+      "name": "ChainGPT",
+      "project_id": "chaingpt",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T20:30:02Z",
+      "name": "CoinW / GemW",
+      "project_id": "coinw",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T18:50:35Z",
+      "name": "Concordium",
+      "project_id": "concordium",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Coreum",
+      "project_id": "coreum",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-10T09:21:53Z",
+      "name": "DeriW",
+      "project_id": "deriw",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-08T11:51:29Z",
+      "name": "Haedal Protocol",
+      "project_id": "haedal-protocol",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-10T00:14:00Z",
+      "name": "Lista DAO",
+      "project_id": "lista-dao",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-12T14:30:01Z",
+      "name": "MultiversX",
+      "project_id": "multiversx",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-13T12:00:07.486000Z",
+      "name": "ONEchain",
+      "project_id": "cross-gamechain",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-11T15:10:01.471000Z",
+      "name": "Temple Digital Group",
+      "project_id": "temple-canton",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T16:16:41Z",
+      "name": "XDC Foundation",
+      "project_id": "xdc-foundation",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-09-10T21:45:16.460000Z",
+      "name": "eesee",
+      "project_id": "eesee",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-12T18:25:57.392000Z",
+      "name": "Evedex",
+      "project_id": "evedex",
+      "x_issue": "本次貼文量達抓取上限，checkpoint 已保留；資料未補齊前不可解讀為沒有公告。",
+      "x_status": "truncated"
+    },
+    {
+      "latest_x_at": "2026-09-17T18:00:23Z",
+      "name": "Algorand",
+      "project_id": "algorand",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T19:05:29Z",
+      "name": "Aptos",
+      "project_id": "aptos",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-26T16:05:56Z",
+      "name": "Arch Network",
+      "project_id": "arch-network",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T15:06:00.305000Z",
+      "name": "Avalon Labs",
+      "project_id": "avalon-labs",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T20:17:39.388000Z",
+      "name": "Babylon",
+      "project_id": "babylon",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-14T08:33:21Z",
+      "name": "Bedrock",
+      "project_id": "bedrock",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T12:00:02Z",
+      "name": "BNB",
+      "project_id": "bnb-chain",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T15:29:19Z",
+      "name": "Cardano (ADA)",
+      "project_id": "cardano",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-09-08T16:10:34.059000Z",
+      "name": "Celo",
+      "project_id": "celo",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T09:29:47Z",
+      "name": "Cosmos",
+      "project_id": "cosmos",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Cronos",
+      "project_id": "cronos",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-03T02:25:47.454000Z",
+      "name": "Cyber",
+      "project_id": "cyber",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T21:00:01Z",
+      "name": "Filecoin",
+      "project_id": "filecoin",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T16:49:12Z",
+      "name": "Klever",
+      "project_id": "klever",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T08:42:31Z",
+      "name": "Mango Network",
+      "project_id": "mango-network",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-09T15:58:13.857000Z",
+      "name": "Massa Labs",
+      "project_id": "massa",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-12T12:51:00.262000Z",
+      "name": "Mavryk Network",
+      "project_id": "mavryk-network",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T17:14:29.734000Z",
+      "name": "MegaETH",
+      "project_id": "megaeth",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T01:57:15.028000Z",
+      "name": "Merlin Chain",
+      "project_id": "merlin-chain",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T20:57:41Z",
+      "name": "Monad",
+      "project_id": "monad",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T14:25:05.311000Z",
+      "name": "Pacifica",
+      "project_id": "pacifica",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T13:17:37.621000Z",
+      "name": "PancakeSwap",
+      "project_id": "pancakeswap",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T16:10:27.510000Z",
+      "name": "Peaq",
+      "project_id": "peaq",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T04:21:30.203000Z",
+      "name": "Scroll",
+      "project_id": "scroll",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T17:49:42.440000Z",
+      "name": "Sonic",
+      "project_id": "sonic",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T07:05:11.196000Z",
+      "name": "SoSoValue",
+      "project_id": "sosovalue",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T15:04:16.939000Z",
+      "name": "Stacks",
+      "project_id": "stacks",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T18:26:42Z",
+      "name": "Stellar",
+      "project_id": "stellar",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T19:59:01Z",
+      "name": "Sui",
+      "project_id": "sui",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-14T11:00:47Z",
+      "name": "Taiko",
+      "project_id": "taiko",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-08-30T09:10:33.892000Z",
+      "name": "Akbank",
+      "project_id": "akbank",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2025-11-26T04:32:03.705000Z",
+      "name": "1Matrix",
+      "project_id": "1matrix",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-26T15:18:03.985000Z",
+      "name": "Atlas Oracle",
+      "project_id": "atlas-oracle",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-09-09T02:57:42Z",
+      "name": "Bithumb",
+      "project_id": "bithumb",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-09T05:32:22Z",
+      "name": "BitMart",
+      "project_id": "bitmart",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T18:38:05Z",
+      "name": "BloFin",
+      "project_id": "blofin",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2025-12-13T09:47:36Z",
+      "name": "d.energy",
+      "project_id": "d-energy",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-26T16:04:45Z",
+      "name": "Gonka",
+      "project_id": "gonka",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-28T10:49:47.710000Z",
+      "name": "Qubetics",
+      "project_id": "qubetics",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-01T04:21:34.374000Z",
+      "name": "RigSec",
+      "project_id": "rigsec",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-08-23T06:42:17.046000Z",
+      "name": "Seedify",
+      "project_id": "seedify",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-09T04:53:54.406000Z",
+      "name": "D'CENT Wallet",
+      "project_id": "dcent-wallet",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-08T06:58:58.442000Z",
+      "name": "EcoSyncVenture",
+      "project_id": "ecosync-venture",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-10T13:01:12.479000Z",
+      "name": "Hecto",
+      "project_id": "hecto",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-04T16:00:01.605000Z",
+      "name": "Interstice Digital",
+      "project_id": "interstice-digital",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T19:26:40.798000Z",
+      "name": "LBank",
+      "project_id": "lbank",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-13T20:23:23.115000Z",
+      "name": "Lightchain AI",
+      "project_id": "lightchain-ai",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-10T10:04:26.299000Z",
+      "name": "LunarBase",
+      "project_id": "lunarbase",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2024-04-19T12:51:02Z",
+      "name": "ROL / Landverse",
+      "project_id": "landverse-rol",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-09-16T11:30:55.097000Z",
+      "name": "Websea",
+      "project_id": "websea",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-09-16T22:57:36.821000Z",
+      "name": "Abra",
+      "project_id": "abra",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Aqualux (AQLX)",
+      "project_id": "aqualux",
+      "x_issue": "缺少有效的官方 X 帳號。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2025-08-15T12:00:01Z",
+      "name": "Aura Network",
+      "project_id": "aura-network",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T16:54:04.962000Z",
+      "name": "Bitget Token",
+      "project_id": "bitget-wallet",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-15T06:18:55Z",
+      "name": "Bitway",
+      "project_id": "bitway",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-09T09:40:31.540000Z",
+      "name": "Buzzer Fan",
+      "project_id": "buzzer-fan",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-08-27T04:46:55.295000Z",
+      "name": "Cobo",
+      "project_id": "cobo",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "CryptoDAO",
+      "project_id": "cryptodao",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-08T07:32:14.378000Z",
+      "name": "dappOS",
+      "project_id": "dappos",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-07-02T12:32:53.195000Z",
+      "name": "Debank",
+      "project_id": "debank",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "DGrid AI",
+      "project_id": "dgrid-ai",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Electric Soul",
+      "project_id": "electric-soul",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "EUROP (Schuman)",
+      "project_id": "europ-schuman",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Fortune",
+      "project_id": "fortune-protocol",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Frgmnt",
+      "project_id": "frgmnt",
+      "x_issue": null,
+      "x_status": "no_posts"
+    },
+    {
+      "latest_x_at": null,
+      "name": "gLGNS",
+      "project_id": "glgns",
+      "x_issue": null,
+      "x_status": "no_posts"
+    },
+    {
+      "latest_x_at": null,
+      "name": "LUMY",
+      "project_id": "lumy",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-17T08:00:14Z",
+      "name": "Manta Network",
+      "project_id": "manta-network",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-11T06:43:43.787000Z",
+      "name": "Matrixdock",
+      "project_id": "matrixdock",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-14T14:56:54.410000Z",
+      "name": "Metta Protocol",
+      "project_id": "metta-protocol",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-16T04:20:59.736000Z",
+      "name": "Moonbeam",
+      "project_id": "moonbeam",
+      "x_issue": null,
+      "x_status": "stale"
+    },
+    {
+      "latest_x_at": "2026-09-17T23:36:09.776000Z",
+      "name": "PLUS Mainnet",
+      "project_id": "plus-mainnet",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Reef",
+      "project_id": "reef",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Sbarter",
+      "project_id": "sbarter",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Sovren Blockchain",
+      "project_id": "sovren-blockchain",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Sportix",
+      "project_id": "sportix",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "Turing BitChain",
+      "project_id": "turing-bitchain",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "VEKTES",
+      "project_id": "vektes",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": null,
+      "name": "WINCHAIN (Bitara)",
+      "project_id": "winchain-bitara",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    },
+    {
+      "latest_x_at": "2026-09-13T14:12:18.877000Z",
+      "name": "Xeffy",
+      "project_id": "xeffy",
+      "x_issue": "Cookie crawler 未回傳 timeline，public fallback 也失敗；需人工頁面複核。",
+      "x_status": "error"
+    }
+  ],
+  "summary": {
+    "active_opportunities": 93,
+    "baseline_projects": 113,
+    "monitoring_issues": 0,
+    "needs_verification": 17,
+    "new_since_last_scan": 1,
+    "observed_signal_count": 869,
+    "source_problems": 107
+  },
+  "telegram": {
+    "enabled": true,
+    "status": "enabled"
+  }
+}
